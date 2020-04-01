@@ -5,6 +5,7 @@ const geocode = require('./utils/geocode.js');
 const forecast = require('./utils/forecast.js');
 
 const app = express();
+// here is how we instantiate express
 
 // Define paths for Express configuration
 const publicDirectoryPath = path.join(__dirname, '../public');
