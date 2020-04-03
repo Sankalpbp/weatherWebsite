@@ -16,5 +16,8 @@
     "hbs": "^4.1.0",
     "minimist": "^1.2.5",
     "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
   }
 }
